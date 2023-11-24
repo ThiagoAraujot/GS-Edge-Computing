@@ -53,3 +53,10 @@ Instruções de Uso
 4.  Indicação Visual:
 
     -   LEDs indicam se a porta está trancada ou destrancada.
+
+Integrantes
+-----------------
+
+Thiago Araujo RM 553477
+<br>
+Felipe Schneider RM 552643
