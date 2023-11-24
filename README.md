@@ -6,6 +6,8 @@ Descrição do Projeto
 
 Este projeto implementa um sistema de porta automática com senha utilizando o ambiente de simulação Tinkercad. A ideia por trás desse projeto é criar uma solução que possa ser aplicada em portas automáticas de hospitais, garantindo a segurança de salas e locais de acesso restrito.
 
+![Foto do Projeto no Tinkercad](automatic-door.png)
+
 Funcionalidades
 ---------------
 
