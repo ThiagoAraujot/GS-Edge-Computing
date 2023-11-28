@@ -33,10 +33,10 @@ Componentes Utilizados
 
 O projeto no Tinkercad utiliza os seguintes componentes:
 
--   Arduino (ou equivalente)
+-   Arduino 
 -   Micro Servo (representando o mecanismo de abertura da porta)
--   Teclado numérico (para entrada da senha)
--   LEDs (para indicar o estado da porta: trancada ou destrancada)
+-   Teclado de membrana (para entrada da senha)
+-   Buzzer (toca à cada interação com o o teclado)
 
 Instruções de Uso
 -----------------
@@ -50,9 +50,10 @@ Instruções de Uso
 3.  Desbloqueio:
 
     -   Para desbloquear a porta, digite a senha correta no teclado numérico.
-4.  Indicação Visual:
+4.  Comandos Basícos:
 
-    -   LEDs indicam se a porta está trancada ou destrancada.
+    -   Para confirmar a senha digitada, tecle "A".
+    -   Para cancelar a senha digitada, tecle "B".
 
 Integrantes
 -----------------
