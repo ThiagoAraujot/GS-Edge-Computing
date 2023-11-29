@@ -10,6 +10,7 @@ Este projeto implementa um sistema de porta automática com senha utilizando o a
 
 Link do Projeto
 --------------------
+Clique neste [Link](https://youtu.be/13VdM_EoaAA?si=jXi-zB9MbM8UFXGw) para acessar o vídeo de apresentação do projeto <br>
 Clique neste [Link](https://www.tinkercad.com/things/eaxdHwMSo2a-gs-edge-computing) para conhecer o projeto no Tinkercad
 
 Funcionalidades
